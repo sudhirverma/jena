@@ -16,7 +16,7 @@ on:
     branches: [ "jena-4.0.0" ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "jena-4.0.0" ]
+    branches: [ "main" ]
 
 jobs:
   analyze:
